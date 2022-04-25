@@ -1,2 +1,5 @@
 rootProject.name = 'practice_spring_eureka'
+include 'service_1'
+include 'service_2'
+include 'eureka_server'
 
